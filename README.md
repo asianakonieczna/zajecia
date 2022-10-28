@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://asianakonieczna.github.io/zajecia/#1
+- Leaflet Map https://asianakonieczna.github.io/zajecia/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14y39gjfuxcyLQTsyHrypMx3e5hZCuXWutiUMSV4ERRQ/edit#gid=0
 
 ## Create Your Own
